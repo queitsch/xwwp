@@ -31,7 +31,7 @@ the default Webkit session.
 
 The `xwidget-webkit-browse-url` just update the current xwidget-webkit buffer
 but does not bring it to the front (at least on MacOS), which is what you would
-expect. The `xwwp-browse-url-orther-window` method will also bring it to the
+expect. The `xwwp-browse-url-other-window` method will also bring it to the
 front using `swith-to-buffer-other-window`.
 
 ### How to install
